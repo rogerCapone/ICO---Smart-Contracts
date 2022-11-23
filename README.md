@@ -6,14 +6,14 @@ An initial coin offering (ICO) is the cryptocurrency industry’s equivalent of 
 
 When a cryptocurrency project wants to raise money through an ICO, the project organizers’ first step is determining how they will structure the coin. ICOs can be structured in a few different ways, including:
 
-# Static supply and static price: 
+### Static supply and static price: 
 
 A company can set a specific funding goal or limit, which means that each token sold in the ICO has a preset price, and the total token supply is fixed.
 
-# Static supply and dynamic price: 
+### Static supply and dynamic price: 
 An ICO can have a static supply of tokens and a dynamic funding goal—this means that the amount of funds received in the ICO determines the overall price per token.
 
-# Dynamic supply and static price: 
+### Dynamic supply and static price: 
 Some ICOs have a dynamic token supply but a static price, meaning that the amount of funding received determines the supply.
 
 
